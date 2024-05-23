@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hola soy el archivo 3 local
+=======
+hola soy el archivo 3 remoto
+>>>>>>> 
+
+Soy una mezcla de ambos
